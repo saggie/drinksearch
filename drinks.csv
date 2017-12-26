@@ -16,16 +16,28 @@ GEORGIA THE PREMIUM,140,TRUE,FALSE,6,北東,コーヒー飲料,コカ・コー�
 GEORGIA EUROPEAN 薫るブラック,140,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
 GEORGIA 至福の微糖,140,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
 GEORGIA MOUNTAIN,140,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
-特茶,170,TRUE,FALSE,7,北東,お茶,サントリー
-伊右衛門茶,170,TRUE,FALSE,8,北東,お茶,サントリー
-リプトン アップルティー,140,TRUE,FALSE,9,北東,紅茶飲料,サントリー
-プレミアムモーニングティー(レモン),120,TRUE,FALSE,10,北東,清涼飲料,サントリー
-南アルプスの天然水,100,TRUE,FALSE,11,北東,水・ミネラルウォーター,サントリー
-伊右衛門茶,110,TRUE,FALSE,12,北東,お茶,サントリー
-リプトン レモンティー,110,TRUE,FALSE,13,北東,紅茶飲料,サントリー
-デカビタC,110,TRUE,FALSE,14,北東,炭酸飲料,サントリー
-PRIDE OF BOSS,110,TRUE,FALSE,15,北東,コーヒー飲料,サントリー
-BOSS カフェラテ,110,TRUE,FALSE,16,北東,コーヒー飲料,サントリー
-BOSS 贅沢微糖,110,TRUE,FALSE,17,北東,コーヒー飲料,サントリー
-PREMIUM BOSS,110,TRUE,FALSE,18,北東,コーヒー飲料,サントリー
-PREMIUM BOSS Black,130,TRUE,FALSE,19,北東,コーヒー飲料,サントリー
+特茶,170,TRUE,FALSE,6,北東,お茶,サントリー
+伊右衛門茶,170,TRUE,FALSE,6,北東,お茶,サントリー
+リプトン アップルティー,140,TRUE,FALSE,6,北東,紅茶飲料,サントリー
+プレミアムモーニングティー(レモン),120,TRUE,FALSE,6,北東,清涼飲料,サントリー
+南アルプスの天然水,100,TRUE,FALSE,6,北東,水・ミネラルウォーター,サントリー
+伊右衛門茶,110,TRUE,FALSE,6,北東,お茶,サントリー
+リプトン レモンティー,110,TRUE,FALSE,6,北東,紅茶飲料,サントリー
+デカビタC,110,TRUE,FALSE,6,北東,炭酸飲料,サントリー
+PRIDE OF BOSS,110,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
+BOSS カフェラテ,110,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
+BOSS 贅沢微糖,110,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
+PREMIUM BOSS,110,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
+PREMIUM BOSS Black,130,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
+お～いお茶,140,FALSE,TRUE,6,北東,お茶,伊藤園
+濃い茶 お～いお茶,140,FALSE,TRUE,6,北東,お茶,伊藤園
+黄金烏龍茶,140,FALSE,TRUE,6,北東,お茶,伊藤園
+ミネラルむぎ茶,140,FALSE,TRUE,6,北東,炭酸水,伊藤園
+日本の炭酸水,140,FALSE,TRUE,6,北東,水・ミネラルウォーター,伊藤園
+evian,140,FALSE,TRUE,6,北東,水・ミネラルウォーター,伊藤園
+TULLY'S BASRISTA'S BLACK,140,FALSE,TRUE,6,北東,コーヒー飲料,伊藤園
+TEA'S TEA ほうじ茶ラテ,140,TRUE,TRUE,6,北東,紅茶飲料,伊藤園
+TEA'S TEA ダージリン,140,TRUE,TRUE,6,北東,紅茶飲料,伊藤園
+ミルクコーヒー,140,TRUE,TRUE,6,北東,コーヒー飲料,伊藤園
+TULLY'S LATTE,140,TRUE,TRUE,6,北東,コーヒー飲料,伊藤園
+TULLY'S BLACK,140,TRUE,TRUE,6,北東,コーヒー飲料,伊藤園
