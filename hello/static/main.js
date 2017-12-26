@@ -23,7 +23,7 @@ var table = null;
 
 function loadDrinks(category) {
     var query = 'drinks';
-    if (category != null) {
+    if (category != null && category != '*') {
         query += '?category=' + encodeURIComponent(category);
     }
     console.log('query', query);
