@@ -63,3 +63,6 @@ def teapot2(request):
     print(r.text)
     return HttpResponse('<pre>' + r.text + '</pre>')
 
+def main(request):
+
+    return render(request, 'main.html', {})
