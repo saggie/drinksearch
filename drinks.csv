@@ -18,7 +18,7 @@ GEORGIA EUROPEAN 薫るブラック,120,FALSE,FALSE,6,北東,コーヒー飲料,
 GEORGIA 至福の微糖,110,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
 GEORGIA MOUNTAIN,110,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
 特茶,170,TRUE,FALSE,6,北東,お茶,サントリー
-伊右衛門茶,140,TRUE,FALSE,6,北東,お茶,サントリー
+伊右衛門茶,130,TRUE,FALSE,6,北東,お茶,サントリー
 リプトン アップルティー,140,TRUE,FALSE,6,北東,紅茶飲料,サントリー
 プレミアムモーニングティー(レモン),120,TRUE,FALSE,6,北東,紅茶飲料,サントリー
 南アルプスの天然水,100,TRUE,FALSE,6,北東,水・ミネラルウォーター,サントリー
@@ -74,3 +74,26 @@ FIRE 香ばしBLACK,140,TRUE,FALSE,6,南西,コーヒー飲料,キリン
 世界一のバリスタ BLACK,120,FALSE,FALSE,6,南西,コーヒー飲料,キリン
 午後の紅茶あたたかミルクティー,110,FALSE,FALSE,6,南西,紅茶飲料,キリン
 生茶 Hot,110,FALSE,FALSE,6,南西,お茶,キリン
+UCC ブラック無糖,130,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+フルーツミスト,130,TRUE,FALSE,4,南東,清涼飲料,N/A
+ウェルチグレープ,100,TRUE,FALSE,4,南東,清涼飲料,N/A
+リアルゴールド,100,TRUE,FALSE,4,南東,炭酸飲料,N/A
+オロナミンCドリンク,100,TRUE,FALSE,4,南東,炭酸飲料,N/A
+リポビタンD,140,TRUE,FALSE,4,南東,清涼飲料,N/A
+レッドブル,190,TRUE,FALSE,4,南東,炭酸飲料,N/A
+綾鷹,130,TRUE,FALSE,4,南東,お茶,N/A
+アクエリアス,130,TRUE,FALSE,4,南東,スポーツドリンク,N/A
+いろはす,100,TRUE,FALSE,4,南東,水・ミネラルウォーター,N/A
+ドクターペッパー,110,TRUE,FALSE,4,南東,炭酸飲料,N/A
+ドデカミンストロング,110,TRUE,FALSE,4,南東,炭酸飲料,N/A
+つぶたっぷり贅沢みかん,140,TRUE,FALSE,4,南東,果実飲料,N/A
+ワンダ 金の微糖,110,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+FIRE ブラジルブレンド,100,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+FIRE モカブレンド,100,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+ヨーロピアン 薫るブラック,120,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+GEORGIA 贅沢カフェラテ,110,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+綾鷹,110,TRUE,FALSE,4,南東,お茶,N/A
+生茶,110,TRUE,FALSE,4,南東,お茶,N/A
+GEORGIA THE PREMIUM,120,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+ドトール カフェオレ,120,TRUE,FALSE,4,南東,コーヒー飲料,N/A
+GEORGIA エメラルドマウンテン,110,TRUE,FALSE,4,南東,コーヒー飲料,N/A
