@@ -1,3 +1,4 @@
+import json
 import requests
 from django.shortcuts import render
 from django.http import HttpResponse
@@ -22,6 +23,18 @@ def teapot(request):
     r = requests.get('http://httpbin.org/status/418')
     print(r.text)
     return HttpResponse('<pre>' + r.text + '</pre>')
+
+def drinks(request):
+    data = {'id': 1, 'name': 'hoge'}
+    json_str = json.dumps(data, ensure_ascii=False, indent=2)
+    response = HttpResponse(json_str, content_type='application/json; charset=UTF-8')
+    return response
+
+def categories(request):
+    data = {'id': 1, 'name': 'hoge'}
+    json_str = json.dumps(data, ensure_ascii=False, indent=2)
+    response = HttpResponse(json_str, content_type='application/json; charset=UTF-8')
+    return response
 
 def teapot2(request):
     r = requests.get('http://httpbin.org/status/418')
