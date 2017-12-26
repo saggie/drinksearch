@@ -1,25 +1,26 @@
 name,price,cold,emoney,floor,location,category,vendor
-コカ・コーラ,140,TRUE,FALSE,6,北東,炭酸水,コカ・コーラ
-コカ・コーラ ZERO,140,TRUE,FALSE,6,北東,炭酸水,コカ・コーラ
+コカ・コーラ,140,TRUE,FALSE,6,北東,炭酸飲料,コカ・コーラ
+コカ・コーラ ZERO,140,TRUE,FALSE,6,北東,炭酸飲料,コカ・コーラ
 GEORGIA EUROPEAN 薫るブラック,140,TRUE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
-一日分の緑黄色野菜,140,TRUE,FALSE,6,北東,野菜ジュース,コカ・コーラ
-マンゴー,140,TRUE,FALSE,6,北東,果実飲料,コカ・コーラ
+一日分の緑黄色野菜,130,TRUE,FALSE,6,北東,野菜ジュース,コカ・コーラ
+マンゴー,110,TRUE,FALSE,6,北東,果実飲料,コカ・コーラ
+リアルゴールド,100,TRUE,FALSE,6,北東,炭酸飲料,コカ・コーラ
 爽健美茶,140,TRUE,FALSE,6,北東,お茶,コカ・コーラ
 綾鷹,140,TRUE,FALSE,6,北東,お茶,コカ・コーラ
-からだ巡茶,140,TRUE,FALSE,6,北東,お茶,コカ・コーラ
+からだ巡茶,130,TRUE,FALSE,6,北東,お茶,コカ・コーラ
 すこやか茶,140,TRUE,FALSE,6,北東,お茶,コカ・コーラ
-いろはす,140,TRUE,FALSE,6,北東,水・ミネラルウォーター,コカ・コーラ
-GEORGIA ROASTRE'S COFFEE,140,TRUE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
-GEORGIA THE PREMIUM,140,TRUE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
-いろはす,140,FALSE,FALSE,6,北東,水・ミネラルウォーター,コカ・コーラ
-贅沢カフェラテ,140,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
-GEORGIA EUROPEAN 薫るブラック,140,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
-GEORGIA 至福の微糖,140,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
-GEORGIA MOUNTAIN,140,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
+いろはす,100,TRUE,FALSE,6,北東,水・ミネラルウォーター,コカ・コーラ
+GEORGIA ROASTRE'S COFFEE,100,TRUE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
+GEORGIA THE PREMIUM,110,TRUE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
+いろはす,100,FALSE,FALSE,6,北東,水・ミネラルウォーター,コカ・コーラ
+贅沢カフェラテ,120,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
+GEORGIA EUROPEAN 薫るブラック,120,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
+GEORGIA 至福の微糖,110,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
+GEORGIA MOUNTAIN,110,FALSE,FALSE,6,北東,コーヒー飲料,コカ・コーラ
 特茶,170,TRUE,FALSE,6,北東,お茶,サントリー
-伊右衛門茶,170,TRUE,FALSE,6,北東,お茶,サントリー
+伊右衛門茶,140,TRUE,FALSE,6,北東,お茶,サントリー
 リプトン アップルティー,140,TRUE,FALSE,6,北東,紅茶飲料,サントリー
-プレミアムモーニングティー(レモン),120,TRUE,FALSE,6,北東,清涼飲料,サントリー
+プレミアムモーニングティー(レモン),120,TRUE,FALSE,6,北東,紅茶飲料,サントリー
 南アルプスの天然水,100,TRUE,FALSE,6,北東,水・ミネラルウォーター,サントリー
 伊右衛門茶,110,TRUE,FALSE,6,北東,お茶,サントリー
 リプトン レモンティー,110,TRUE,FALSE,6,北東,紅茶飲料,サントリー
@@ -29,15 +30,47 @@ BOSS カフェラテ,110,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
 BOSS 贅沢微糖,110,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
 PREMIUM BOSS,110,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
 PREMIUM BOSS Black,130,TRUE,FALSE,6,北東,コーヒー飲料,サントリー
-お～いお茶,140,FALSE,TRUE,6,北東,お茶,伊藤園
-濃い茶 お～いお茶,140,FALSE,TRUE,6,北東,お茶,伊藤園
-黄金烏龍茶,140,FALSE,TRUE,6,北東,お茶,伊藤園
-ミネラルむぎ茶,140,FALSE,TRUE,6,北東,炭酸水,伊藤園
-日本の炭酸水,140,FALSE,TRUE,6,北東,水・ミネラルウォーター,伊藤園
-evian,140,FALSE,TRUE,6,北東,水・ミネラルウォーター,伊藤園
-TULLY'S BASRISTA'S BLACK,140,FALSE,TRUE,6,北東,コーヒー飲料,伊藤園
-TEA'S TEA ほうじ茶ラテ,140,TRUE,TRUE,6,北東,紅茶飲料,伊藤園
-TEA'S TEA ダージリン,140,TRUE,TRUE,6,北東,紅茶飲料,伊藤園
-ミルクコーヒー,140,TRUE,TRUE,6,北東,コーヒー飲料,伊藤園
-TULLY'S LATTE,140,TRUE,TRUE,6,北東,コーヒー飲料,伊藤園
-TULLY'S BLACK,140,TRUE,TRUE,6,北東,コーヒー飲料,伊藤園
+お～いお茶,140,TRUE,TRUE,6,北東,お茶,伊藤園
+濃い茶 お～いお茶,140,TRUE,TRUE,6,北東,お茶,伊藤園
+黄金烏龍茶,140,TRUE,TRUE,6,北東,お茶,伊藤園
+ミネラルむぎ茶,130,TRUE,TRUE,6,北東,お茶,伊藤園
+日本の炭酸水,120,TRUE,TRUE,6,北東,炭酸水,伊藤園
+evian,110,TRUE,TRUE,6,北東,水・ミネラルウォーター,伊藤園
+TULLY'S BASRISTA'S BLACK,130,TRUE,TRUE,6,北東,コーヒー飲料,伊藤園
+TEA'S TEA ほうじ茶ラテ,110,FALSE,TRUE,6,北東,紅茶飲料,伊藤園
+TEA'S TEA ダージリン,120,FALSE,TRUE,6,北東,紅茶飲料,伊藤園
+ミルクコーヒー,100,FALSE,TRUE,6,北東,コーヒー飲料,伊藤園
+TULLY'S LATTE,130,FALSE,TRUE,6,北東,コーヒー飲料,伊藤園
+TULLY'S BLACK,120,FALSE,TRUE,6,北東,コーヒー飲料,伊藤園
+miu レモンオレンジ,110,TRUE,TRUE,6,南西,炭酸飲料,ダイドー
++Vitamin,120,TRUE,TRUE,6,南西,清涼飲料,ダイドー
+芳醇一煎,120,TRUE,TRUE,6,南西,お茶,ダイドー
+おいしい麦茶,140,TRUE,TRUE,6,南西,お茶,ダイドー
+大人のカロリミット,150,TRUE,TRUE,6,南西,お茶,ダイドー
+コクのミルクコーヒー,130,TRUE,TRUE,6,南西,清涼飲料,ダイドー
+世界一のバリスタ BLACK,120,TRUE,TRUE,6,南西,コーヒー飲料,ダイドー
+エナジージム,110,TRUE,TRUE,6,南西,炭酸飲料,ダイドー
+和梨白ぶどう,110,TRUE,TRUE,6,南西,清涼飲料,ダイドー
+芳醇一煎,110,TRUE,TRUE,6,南西,お茶,ダイドー
+ゆずれもん,110,TRUE,TRUE,6,南西,清涼飲料,ダイドー
+世界一のバリスタ コク深ブレンド 微糖,110,FALSE,TRUE,6,南西,コーヒー飲料,ダイドー
+世界一のバリスタ 香るブレンド 微糖,120,FALSE,TRUE,6,南西,コーヒー飲料,ダイドー
+世界一のバリスタ BLACK,140,FALSE,TRUE,6,南西,コーヒー飲料,ダイドー
+デミタスコーヒー,110,FALSE,TRUE,6,南西,コーヒー飲料,ダイドー
+ダイドーブラック,140,FALSE,TRUE,6,南西,コーヒー飲料,ダイドー
+世界一のバリスタ BLACK,140,FALSE,TRUE,6,南西,コーヒー飲料,ダイドー
+アミノサプリＣ,110,TRUE,FALSE,6,南西,炭酸飲料,キリン
+メッツ,110,TRUE,FALSE,6,南西,炭酸飲料,キリン
+生茶,120,TRUE,FALSE,6,南西,お茶,キリン
+ボルビック,100,TRUE,FALSE,6,南西,水・ミネラルウォーター,キリン
+FIRE 香ばしBLACK,140,TRUE,FALSE,6,南西,コーヒー飲料,キリン
+世界一のバリスタ 香るブレンド 微糖,120,TRUE,FALSE,6,南西,コーヒー飲料,キリン
+世界一のバリスタ BLACK,120,TRUE,FALSE,6,南西,コーヒー飲料,キリン
+午後の紅茶 レモンティー,110,TRUE,FALSE,6,南西,紅茶飲料,キリン
+午後の紅茶 ミルクティー,110,TRUE,FALSE,6,南西,紅茶飲料,キリン
+小岩井無添加野菜,110,TRUE,FALSE,6,南西,野菜ジュース,キリン
+レッドブル,190,TRUE,FALSE,6,南西,清涼飲料,キリン
+世界一のバリスタ 香るブレンド 微糖,120,FALSE,FALSE,6,南西,コーヒー飲料,キリン
+世界一のバリスタ BLACK,120,FALSE,FALSE,6,南西,コーヒー飲料,キリン
+午後の紅茶あたたかミルクティー,110,FALSE,FALSE,6,南西,紅茶飲料,キリン
+生茶 Hot,110,FALSE,FALSE,6,南西,お茶,キリン
