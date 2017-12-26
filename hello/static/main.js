@@ -5,34 +5,36 @@ $(document).ready(function(){
         success:function (myData, myStatus){
             console.log('categories', myData);
             myData.data.forEach(function(value) {
-                $('#categories').append('<a>' + value + '</a>');
+                $('#categories').append('<a data-category="' + value + '">' + value + '</a>');
             });
 
-            $('a', '#categories').on('click', function(data) {
-                alert(data);
+            $('a', '#categories').on('click', function(event) {
+                var category = $(event.target).data('category');
+                console.log('category is clicked', category);
+                loadDrinks(category);
             });
 
         }
     });
-    loadDrinks(null);
+    loadDrinks();
 });
 
+var table = null;
+
 function loadDrinks(category) {
-/*    $.ajax({
-        url:"drinks",
-        success:function (myData, myStatus){
-            console.log('drinks', myData);
-            if (category != null) {
-                console.log('filter by category');
-            }
-            $('#drinks').DataTable();
-        }
-    });
-*/
-    $('#drinks').DataTable({
-        ajax: 'drinks',
-        pageLength: 20
-    });
+    var query = 'drinks';
+    if (category != null) {
+        query += '?category=' + encodeURIComponent(category);
+    }
+    console.log('query', query);
 
-
+    if (table == null) {
+        table = $('#drinks').DataTable({
+            ajax: query,
+            pageLength: 20
+        });
+    }
+    else {
+        table.ajax.url(query).load();
+    }
 }
