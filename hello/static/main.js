@@ -30,7 +30,8 @@ function loadDrinks(category) {
     });
 */
     $('#drinks').DataTable({
-        ajax: 'drinks'
+        ajax: 'drinks',
+        pageLength: 20
     });
 
 
