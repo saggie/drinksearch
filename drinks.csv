@@ -1,0 +1,18 @@
+name,price,cold,emoney,floor,location,category
+コカコーラ,140,TRUE,FALSE,6,北東,炭酸水
+コカコーラ・ZERO,140,TRUE,FALSE,6,北東,炭酸水
+GEORGIA EUROPEAN 薫るブラック,140,TRUE,FALSE,6,北東,コーヒー飲料
+一日分の緑黄色野菜,140,TRUE,FALSE,6,北東,野菜ジュース
+マンゴー,140,TRUE,FALSE,6,北東,果実飲料
+爽健美茶,140,TRUE,FALSE,6,北東,お茶
+綾鷹,140,TRUE,FALSE,6,北東,お茶
+からだ巡茶,140,TRUE,FALSE,6,北東,お茶
+すこやか茶,140,TRUE,FALSE,6,北東,お茶
+いろはす,140,TRUE,FALSE,6,北東,水・ミネラルウォーター
+GEORGIA ROASTRE'S COFFEE,140,TRUE,FALSE,6,北東,コーヒー飲料
+GEORGIA THE PREMIUM,140,TRUE,FALSE,6,北東,コーヒー飲料
+いろはす,140,FALSE,FALSE,6,北東,水・ミネラルウォーター
+贅沢カフェラテ,140,FALSE,FALSE,6,北東,コーヒー飲料
+GEORGIA EUROPEAN 薫るブラック,140,FALSE,FALSE,6,北東,コーヒー飲料
+GEORGIA 至福の微糖,140,FALSE,FALSE,6,北東,コーヒー飲料
+GEORGIA MOUNTAIN,140,FALSE,FALSE,6,北東,コーヒー飲料
