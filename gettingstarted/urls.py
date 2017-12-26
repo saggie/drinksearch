@@ -14,5 +14,6 @@ urlpatterns = [
     url(r'^$', hello.views.index, name='index'),
     url(r'^db', hello.views.db, name='db'),
     url(r'^teapot', hello.views.teapot, name='teapot'),
+    url(r'^teapot2', hello.views.teapot, name='teapot2'),
     path('admin/', admin.site.urls),
 ]
