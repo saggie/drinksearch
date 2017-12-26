@@ -1,3 +1,4 @@
+import csv
 import json
 import requests
 from django.shortcuts import render
@@ -31,7 +32,13 @@ def drinks(request):
     return response
 
 def categories(request):
-    data = {'id': 1, 'name': 'hoge'}
+    categories = []
+    with open('categories.csv', 'r') as f:
+        reader = csv.reader(f)
+        header = next(reader)  # skip header
+        for row in reader:
+            categories.append(row[1])
+    data = { 'data': categories }
     json_str = json.dumps(data, ensure_ascii=False, indent=2)
     response = HttpResponse(json_str, content_type='application/json; charset=UTF-8')
     return response
