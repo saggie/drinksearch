@@ -3,19 +3,38 @@
 <head>
   <title>Main</title>
   <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.16/css/dataTables.bootstrap.min.css"/> 
   <link rel="stylesheet" type="text/css" href="static/main.css" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
   <script type="text/javascript" src="static/main.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-default navbar-static-top navbar-inverse">
-  <div class="container">
-      Test
-  </div>
+  <h1 id='title'>自販機サーチ</h1>
 </nav>
-<div id="categories" class="sidenav">
+<div class="container-fluid">
+    <div class="row">
+            <div id="categories" class='col-xs-3'>
+                </div>
+                <div class='col-xs-9'>
+                        <table id="drinks" class="display" cellspacing="0" width="100%">
+                                <thead>
+                                    <tr>
+                                            <th>名称</th>
+                                            <th>価格</th>
+                                            <th>冷たい</th>
+                                            <th>電子マネー可</th>
+                                            <th>フロア</th>
+                                            <th>方角</th>
+                                            <th>カテゴリ</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                </div>
+                    </div>
 </div>
-<div id="categories">hogehoge</div>
+
 </body>
 </html>
