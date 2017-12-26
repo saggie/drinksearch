@@ -31,15 +31,15 @@ def drinks(request):
         reader = csv.reader(f)
         header = next(reader)  # skip header
         for row in reader:
-            drink = {
-                'name': row[0],
-                'price': row[1],
-                'is_cold': row[2],
-                'is_emoney': row[3],
-                'floor': row[4],
-                'location': row[5],
-                'category': row[6]
-            }
+            drink = [
+                row[0],
+                row[1],
+                row[2],
+                row[3],
+                row[4],
+                row[5],
+                row[6]
+            ]
             drinks.append(drink)
     data = { 'data': drinks }
     json_str = json.dumps(data, ensure_ascii=False, indent=2)
